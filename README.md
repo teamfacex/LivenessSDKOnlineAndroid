@@ -15,7 +15,8 @@ LivenessSDK for Android
    * [LivenessListener](#livenesslistener)
 * [Customization](#-customization)
   * [Steps](#steps)
-  * [Thersholds](#-Thresholds)  
+  * [Thersholds](#thresholds)  
+  * [Localization](#localization)
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
 
 ## 🌟 Features
