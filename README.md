@@ -216,7 +216,7 @@ You can set some properties for liveness.
 
 
 #### Localization
-- strings.xml
+ * strings.xml
 
 ```
 <resources>
@@ -228,7 +228,6 @@ You can set some properties for liveness.
     <string name="turn_head">Turn your head left and right</string>
     <string name="face_align">Keep your face within the box</string>
 </resources>
-
 ```
 
 
