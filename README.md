@@ -5,7 +5,7 @@
 
 
 # LivenessSDK
-LivenessSDK for Android
+Online LivenessSDK for Android
 
 * [Features](#-features)
 * [Installation](#-installation)
