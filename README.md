@@ -69,8 +69,6 @@ if (ContextCompat.checkSelfPermission(
                 )
             }
 
-        } else {
-
         }
 override fun onRequestPermissionsResult(requestCode: Int,
                                             permissions: Array<String>, grantResults: IntArray) {
@@ -218,6 +216,7 @@ You can set some properties for liveness.
 
 #### Localization
 - strings.xml
+
 ```
 <resources>
     <string name="camera_error">Camera Error</string>
@@ -230,6 +229,7 @@ You can set some properties for liveness.
 </resources>
 
 ```
+
 
 ### 📋 Supported OS & SDK Versions
 * Android 6.0+
