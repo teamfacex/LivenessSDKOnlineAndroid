@@ -20,7 +20,7 @@ Online LivenessSDK for Android
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
 
 ## 🌟 Features
-- Supports Android 5.0+
+- Supports Android 6.0+
 
 
 ## 📲 Installation
