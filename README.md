@@ -244,10 +244,10 @@ You can set some properties for liveness.
 
 ## 📚 Documentation 
 
-- Step 1: Sign up for a developer account through [FaceX User Portal] (https://search.facex.io/#/register)
-- Step 2: Navigate to Plans & Payments Tab & Select  [Plans] (https://search.facex.io/#/home/payments/plans)
+- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
+- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
 - Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
-- Step 4: Navigate to Mobile SDK Tab & Select [License History] (https://search.facex.io/#/home/mobilesdk/license)
+- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
 - Step 5: Download the json file for Android SDK
 - Step 6: Download the Online Active Livenesss Android SDK from this Github [LivenessSDKOnline](https://github.com/teamfacex/LivenessSDKOnlineAndroid)
 - Step 7: Add the JSON file from the portal to your project. 
