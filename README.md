@@ -243,5 +243,5 @@ You can set some properties for liveness.
 
 ## 👮🏻 License
 
-- [EULA]()
+- [EULA](https://github.com/teamfacex/LivenessSDKOnlineAndroid/blob/master/LICENCE)
 
