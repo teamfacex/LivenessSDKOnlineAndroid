@@ -12,6 +12,7 @@ Brought to you by FaceX.io, LivenessSDKOnlineAndroid can now be used to integrat
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analyzed to verify and identify live visitors. 
 
 ## 📑 Index
+* [Documentation](#-documentation)
 * [Features](#-features)
 * [Installation](#-installation)
   * [AAR](#using--aar--android-archive)
@@ -23,8 +24,17 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
   * [Thersholds](#thresholds)  
   * [Localization](#localization)
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
-* [Documentation](#-documentation)
 * [License](#-license)
+
+## 📚 Documentation 
+
+- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
+- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
+- Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
+- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
+- Step 5: Download the json file for Android SDK
+- Step 6: Download the Online Active Livenesss Android SDK from this Github [LivenessSDKOnline](https://github.com/teamfacex/LivenessSDKOnlineAndroid)
+- Step 7: Add the JSON file from the portal to your project.
 
 ## 🌟 Features
 - Supports Android 6.0+
@@ -241,16 +251,6 @@ You can set some properties for liveness.
 ## 📋 Supported OS & SDK Versions
 * Android 6.0+
 * Java 8
-
-## 📚 Documentation 
-
-- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
-- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
-- Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
-- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
-- Step 5: Download the json file for Android SDK
-- Step 6: Download the Online Active Livenesss Android SDK from this Github [LivenessSDKOnline](https://github.com/teamfacex/LivenessSDKOnlineAndroid)
-- Step 7: Add the JSON file from the portal to your project. 
 
 ## 👮🏻 License
 
