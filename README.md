@@ -23,6 +23,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
   * [Thersholds](#thresholds)  
   * [Localization](#localization)
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
+* [License](#-license)
 
 ## 🌟 Features
 - Supports Android 6.0+
@@ -239,3 +240,8 @@ You can set some properties for liveness.
 ### 📋 Supported OS & SDK Versions
 * Android 6.0+
 * Java 8
+
+## 👮🏻 License
+
+- [EULA]()
+
