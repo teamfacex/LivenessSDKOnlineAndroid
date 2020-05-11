@@ -6,7 +6,7 @@
 
 # LivenessSDKOnlineAndroid
 ## 📜 Introduction
-Brought to you by FaceX.io, LivenessSDKOnlineAndroid can now be used to integrate transaction-based liveness Detection by Motion/gesture into into your Android applications
+Brought to you by FaceX.io, LivenessSDKOnlineAndroid can now be used to integrate transaction-based liveness Detection by Motion/gesture into your Android applications
 
 ## 🔧 Functioning
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analyzed to verify and identify live visitors. 
