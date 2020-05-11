@@ -32,13 +32,12 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 - Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
 - Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
 - Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
-- Step 5: Download the json file for Android SDK
+- Step 5: Download the json file for Android SDK from the online license Section
 - Step 6: Download the Online Active Livenesss Android SDK from this Github [LivenessSDKOnline](https://github.com/teamfacex/LivenessSDKOnlineAndroid)
 - Step 7: Add the JSON file from the portal to your project.
 
 ## 🌟 Features
 - Supports Android 6.0+
-
 
 ## 📲 Installation
 * Requires Java8 support/ gradle plugin 3+
